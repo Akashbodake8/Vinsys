@@ -1,10 +1,10 @@
-/* Base Styles */
+
 body {
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     line-height: 1.6;
 }
 
-/* Navbar Styles */
+
 .navbar {
     box-shadow: 0 2px 4px rgba(0,0,0,0.1);
 }
@@ -20,7 +20,7 @@ body {
     padding: 0.5rem 1rem;
 }
 
-/* Hero Section */
+
 .hero-section {
     background-color: #f8f9fa;
 }
@@ -34,12 +34,11 @@ body {
     line-height: 1.2;
 }
 
-/* Second Section */
+
 .second {
     background-color: white;
 }
 
-/* Third Section */
 .third .card {
     transition: transform 0.3s ease, box-shadow 0.3s ease;
 }
@@ -49,17 +48,16 @@ body {
     box-shadow: 0 10px 20px rgba(0,0,0,0.1);
 }
 
-/* Thesis Section */
 .thesis-exhibit video {
     background-color: #000;
 }
 
-/* Footer */
+
 footer {
     background-color: #f8f9fa;
 }
 
-/* Responsive Adjustments */
+
 @media (max-width: 992px) {
     .first-section {
         min-height: auto;
